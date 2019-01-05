@@ -4,7 +4,3 @@ criando o style css
 
 
 testando o supositório remoto
-
-
-
-Lá vai outro teste 
